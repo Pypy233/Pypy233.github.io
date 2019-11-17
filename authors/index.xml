@@ -17,9 +17,86 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;h1 id=&#34;display-name&#34;&gt;Display name&lt;/h1&gt;
+
+&lt;p&gt;name: Yu Pan&lt;/p&gt;
+
+&lt;h1 id=&#34;username-this-should-match-the-folder-name&#34;&gt;Username (this should match the folder name)&lt;/h1&gt;
+
+&lt;p&gt;authors:
+- admin&lt;/p&gt;
+
+&lt;h1 id=&#34;is-this-the-primary-user-of-the-site&#34;&gt;Is this the primary user of the site?&lt;/h1&gt;
+
+&lt;p&gt;superuser: true&lt;/p&gt;
+
+&lt;h1 id=&#34;role-position&#34;&gt;Role/position&lt;/h1&gt;
+
+&lt;p&gt;role: Undergradute Student at Nanjing University&lt;/p&gt;
+
+&lt;h1 id=&#34;organizations-affiliations&#34;&gt;Organizations/Affiliations&lt;/h1&gt;
+
+&lt;p&gt;organizations:
+- name: Nanjing University
+  url: &amp;ldquo;&lt;a href=&#34;https://www.nju.edu.cn&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://www.nju.edu.cn&amp;quot;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;short-bio-displayed-in-user-profile-at-end-of-posts&#34;&gt;Short bio (displayed in user profile at end of posts)&lt;/h1&gt;
+
+&lt;p&gt;bio: My research interests include program analysis, security and network.&lt;/p&gt;
+
+&lt;p&gt;interests:
+- Program Analysis
+- Security
+- Network&lt;/p&gt;
+
+&lt;p&gt;education:
+  courses:
+  - course: BSc in Software Engineering
+    institution: Nanjing University
+    year: 2016 ~ 2020&lt;/p&gt;
+
+&lt;h1 id=&#34;social-academic-networking&#34;&gt;Social/Academic Networking&lt;/h1&gt;
+
+&lt;h1 id=&#34;for-available-icons-see-https-sourcethemes-com-academic-docs-widgets-icons&#34;&gt;For available icons, see: &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/#icons&#34; target=&#34;_blank&#34;&gt;https://sourcethemes.com/academic/docs/widgets/#icons&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&#34;for-an-email-link-use-fas-icon-pack-envelope-icon-and-a-link-in-the&#34;&gt;For an email link, use &amp;ldquo;fas&amp;rdquo; icon pack, &amp;ldquo;envelope&amp;rdquo; icon, and a link in the&lt;/h1&gt;
+
+&lt;h1 id=&#34;form-mailto-your-email-example-com-or-contact-for-contact-widget&#34;&gt;form &amp;ldquo;mailto:your-email@example.com&amp;rdquo; or &amp;ldquo;#contact&amp;rdquo; for contact widget.&lt;/h1&gt;
+
+&lt;p&gt;social:
+- icon: envelope
+  icon_pack: fas
+  link: &amp;ldquo;panyuyuyu@outlook.com&amp;rdquo;.
+- icon: linkedin
+  icon_pack: fab
+  link: &lt;a href=&#34;https://www.linkedin.com/in/yu-pan-43934b173/&#34; target=&#34;_blank&#34;&gt;https://www.linkedin.com/in/yu-pan-43934b173/&lt;/a&gt;
+- icon: github
+  icon_pack: fab
+  link: &lt;a href=&#34;https://github.com/Pypy233&#34; target=&#34;_blank&#34;&gt;https://github.com/Pypy233&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;link-to-a-pdf-of-your-resume-cv-from-the-about-widget&#34;&gt;Link to a PDF of your resume/CV from the About widget.&lt;/h1&gt;
+
+&lt;h1 id=&#34;to-enable-copy-your-resume-cv-to-static-files-cv-pdf-and-uncomment-the-lines-below&#34;&gt;To enable, copy your resume/CV to &lt;code&gt;static/files/cv.pdf&lt;/code&gt; and uncomment the lines below.&lt;/h1&gt;
+
+&lt;h1 id=&#34;icon-cv&#34;&gt;- icon: cv&lt;/h1&gt;
+
+&lt;h1 id=&#34;icon-pack-ai&#34;&gt;icon_pack: ai&lt;/h1&gt;
+
+&lt;h1 id=&#34;link-files-cv-pdf&#34;&gt;link: files/cv.pdf&lt;/h1&gt;
+
+&lt;h1 id=&#34;enter-email-to-display-gravatar-if-gravatar-enabled-in-config&#34;&gt;Enter email to display Gravatar (if Gravatar enabled in Config)&lt;/h1&gt;
+
+&lt;p&gt;email: &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;organizational-groups-that-you-belong-to-for-people-widget&#34;&gt;Organizational groups that you belong to (for People widget)&lt;/h1&gt;
+
+&lt;h1 id=&#34;set-this-to-or-comment-out-if-you-are-not-using-people-widget&#34;&gt;Set this to &lt;code&gt;[]&lt;/code&gt; or comment out if you are not using People widget.&lt;/h1&gt;
+
+&lt;p&gt;user_groups:
+- Researchers
+- Visitors&lt;/p&gt;
 </description>
     </item>
     
