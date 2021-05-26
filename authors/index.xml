@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yu Pan (潘羽)</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an undergraduate student major in Software Engineering in &lt;a href=&#34;https://www.nju.edu.cn/EN/&#34; target=&#34;_blank&#34;&gt;Nanjing University&lt;/a&gt;, China. I did research work in Nanjing University and Prof. &lt;a href=&#34;http://software.nju.edu.cn/eytang&#34; target=&#34;_blank&#34;&gt;Enyi Tang&lt;/a&gt; is my fantastic adviser. I spent a wonderful summer internship at the University of Illinois at Urbana-Champaign hosted by Prof. &lt;a href=&#34;https://tianyin.github.io&#34; target=&#34;_blank&#34;&gt;Tianyin Xu&lt;/a&gt; in 2019. I will join in &lt;a href=&#34;https://www.cs.utah.edu&#34; target=&#34;_blank&#34;&gt;University of Utah&lt;/a&gt; as a Ph.D. candidate. Thanks for Prof. &lt;a href=&#34;https://sites.google.com/site/muzhang82&#34; target=&#34;_blank&#34;&gt;Mu Zhang&lt;/a&gt; and Prof. &lt;a href=&#34;https://pavpanchekha.com&#34; target=&#34;_blank&#34;&gt;Pavel Panchekha&lt;/a&gt;&amp;rsquo;s help and advice!&lt;/p&gt;
+
+&lt;p&gt;My research interests include programming languages, program analysis, numerical analysis using programming language techniques and security. I want to build tools and systems to guarantee the desired behavior of a system in a reliable and scalable way. Meanwhile, I am interested in disassembling some PC games and modifying some values (e.g. the chance to get awful items) in my free time, which could be funny and somewhat troublesome.&lt;/p&gt;
+
+&lt;p&gt;I am now digging in interesting security stuff.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
