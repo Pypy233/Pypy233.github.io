@@ -19,8 +19,8 @@ redirect_from:
 <h1>News</h1>
 <ul>
 <li>
-07/2023: Our ISSTA'23 paper "Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode" has been awarded the <text style="color: red;">ACM SIGSOFT Distinguished Paper!</text>(9/372 = 2%) Thanks a lot for Mu's advice, the collaborator's help, and Wanjing's care!</li>
+07/2023: Our ISSTA'23 paper "Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode" has been awarded the <text style="color: red;"> <b>ACM SIGSOFT Distinguished Paper</b></text>(9/372 = 2%)! Thanks a lot for Mu's advice, the collaborator's help, and Wanjing's care!</li>
 
 <li>
-11/2022: Our paper "Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications" won the <text style="color: red;">CCS 2022 Best Paper Honorable Mention</text>(20/972 = 2%) Thanks a lot for Mu, Yue and Xin!
+11/2022: Our paper "Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications" won the <text style="color: red;"> <b>CCS 2022 Best Paper Honorable Mention</b></text>(20/972 = 2%)! Thanks a lot for Mu, Yue and Xin!
 </li> 
