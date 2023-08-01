@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Nanjing University, 2016~2020
 * Ph.D in University of Utah, 2021~0xFFFF
+* B.Eng. in Nanjing University, 2016~2020
+
 
 <!-- Work experience
 ======
