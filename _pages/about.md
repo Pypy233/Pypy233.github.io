@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am currently a security guy at the University of Utah, fortunate enough to be supervised by Prof. <a href="https://sites.google.com/site/muzhang82" target="_blank">Mu Zhang</a>. Before this, I did research work in Nanjing University and Prof. <a href="http://software.nju.edu.cn/eytang" target="_blank">Enyi Tang</a> is my fantastic adviser.</a> in 2019. 
+<p>I am currently a security guy at the University of Utah, fortunate enough to be supervised by Prof. <a href="https://sites.google.com/site/muzhang82" target="_blank">Mu Zhang</a>. Before this, I did research work in Nanjing University and Prof. <a href="http://software.nju.edu.cn/eytang" target="_blank">Enyi Tang</a> is my fantastic adviser. 
       
 <p>My research interests include blockchain security, programming languages, numerical analysis using programming language techniques. I aspire to build tools and systems that guarantee the desired behavior of a system in a reliable and scalable way. In my free time, I enjoy disassembling some PC games and modifying certain values (e.g., the chance to get awful items), which can be both amusing and somewhat challenging.
 
