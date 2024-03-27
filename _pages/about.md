@@ -19,6 +19,9 @@ redirect_from:
 <h1>News</h1>
 <ul>
 <li>
+03/2024: I'm serving on the PC of Transactions on Dependable and Secure Computing (TDSC).
+</li>
+<li>
 07/2023: Our ISSTA'23 paper "Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode" has been awarded the <text style="color: red;"> <b><a href="https://2023.issta.org/details/issta-2023-technical-papers/91/Automated-Generation-of-Security-Centric-Descriptions-for-Smart-Contract-Bytecode" target="_blank">ACM SIGSOFT Distinguished Paper</a></b></text>(9/372 = 2%)! Thanks a lot for Mu's advice, the collaborator's help, and Wanjing's care!</li>
 
 <li>
