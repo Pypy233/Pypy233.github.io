@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am currently a security guy at the University of Utah, fortunate enough to be supervised by Prof. <a href="https://sites.google.com/site/muzhang82" target="_blank">Mu Zhang</a>. Before this, I did research work in Nanjing University and Prof. <a href="http://software.nju.edu.cn/eytang" target="_blank">Enyi Tang</a> is my fantastic adviser. 
+<p>I am currently a smart contract watchman at the University of Utah, fortunate enough to be supervised by Prof. <a href="https://sites.google.com/site/muzhang82" target="_blank">Mu Zhang</a>. Before this, I did research work in Nanjing University and Prof. <a href="http://software.nju.edu.cn/eytang" target="_blank">Enyi Tang</a> is my fantastic adviser. 
       
-<p>My research interests include blockchain security, programming languages, numerical analysis using programming language techniques. I aspire to build tools and systems that guarantee the desired behavior of a system in a reliable and scalable way. In my free time, I enjoy disassembling some PC games and modifying certain values (e.g., the chance to get awful items), which can be both amusing and somewhat challenging.
-
+<p>My research interests include blockchain security, programming languages, and software engineering. I aspire to build tools and systems that ensure desired system behavior in a reliable and scalable way. In my free time, I enjoy reverse-engineering PC games and modifying certain values—such as increasing the chance of obtaining legendary items—which I find both amusing and intellectually rewarding.
 </p>
 
 <p>I am currently exploring fascinating smart contract security topics and would be eager to collaborate with researchers who share similar interests. </p>
