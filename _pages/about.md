@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am currently a smart contract watchman at the University of Utah, fortunate enough to be supervised by Prof. <a href="https://sites.google.com/site/muzhang82" target="_blank">Mu Zhang</a>. Before this, I did research work in Nanjing University and Prof. <a href="http://software.nju.edu.cn/eytang" target="_blank">Enyi Tang</a> is my fantastic adviser. 
+<p>I am currently a smart contract <a href="https://www.dota2.com/hero/tinker" target="_blank">tinker</a> at the University of Utah, fortunate enough to be supervised by Prof. <a href="https://sites.google.com/site/muzhang82" target="_blank">Mu Zhang</a>. Before this, I did research work in Nanjing University and Prof. <a href="http://software.nju.edu.cn/eytang" target="_blank">Enyi Tang</a> is my fantastic adviser. 
       
 <p>My research interests include blockchain security, programming languages, and software engineering. I aspire to build tools and systems that ensure desired system behavior in a reliable and scalable way. In my free time, I enjoy reverse-engineering PC games and modifying certain values—such as increasing the chance of obtaining legendary items—which I find both amusing and intellectually rewarding.
 </p>
