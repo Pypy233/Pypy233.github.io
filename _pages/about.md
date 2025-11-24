@@ -18,6 +18,8 @@ redirect_from:
 <h1>News</h1>
 <ul>
 <li>
+11/24/2025: I passed my defense!</li>
+<li>
 10/2025: I will join <b>CertiK</b> as a Blockchain Security Engineer!</li>
 <li>
 04/2025: Our paper "CollisionRepair: First-Aid and Automated Patching for Storage Collision Vulnerabilities in Smart Contracts" has been accepted in USENIX Security'25! Thanks a lot for Mu's advice!</li>
